@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Udit Shrivastava a passionate full-stack and game developer from India. <br><br>🔭 I’m currently working on VidNote a note-taking web app build using React and Tailwind.<br>🌱 I’m currently learning React and Tailwind<br>📫 How to reach me w.udit.shrivastava@gmail.com<br>📄 Know about my experiences https://drive.google.com/drive/folders/1eCV9RVjKGHGwxuBGYohaA63TnFvUcmld?usp=share_link
+Hi, I'm Udit Shrivastava a passionate full-stack and game developer from India. <br><br>🔭 I’m currently working on VidNote a note-taking web app build using React and Tailwind.<br>🌱 I’m currently learning React and Tailwind<br>📫 How to reach me w.udit.shrivastava@gmail.com<br>
 
 
 ## 🌐 Socials:
